@@ -1,0 +1,3 @@
+# macOS scripts break if checked out with Windows line endings
+*.command text eol=lf
+*.sh      text eol=lf

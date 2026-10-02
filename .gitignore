@@ -1,0 +1,14 @@
+# dev-env contents
+/apps/
+/cache/
+/config/
+/projects/
+
+# packaging artifacts
+/downloads/
+*.zip
+checksums.json
+
+# temporary files and logs
+*.log
+*.tmp
